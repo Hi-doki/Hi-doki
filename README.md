@@ -17,5 +17,4 @@
   <p align=center>
    <img src="https://github-readme-stats.vercel.app/api?username=hi-doki&show_icons=true&theme=dark" width=400 align=center />
   </p>
-
->uwu
+  
