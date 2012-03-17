@@ -2,6 +2,8 @@
 
 <h3>Contact</h3>
 
+
+
 + Discord: <a href="https://discord.com/users/828795326878056459">`kyatto#2671`</a>
 
 + Email: <a href="mailto:kyatto@kyaliko.com">`Email me :3`</a>
@@ -15,3 +17,5 @@
   <p align=center>
    <img src="https://github-readme-stats.vercel.app/api?username=hi-doki&show_icons=true&theme=dark" width=400 align=center />
   </p>
+
+>uwu
