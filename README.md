@@ -1,6 +1,6 @@
 # A Sink 🛁
 
-  ```json
+  ```txt
   Username: Hi-Doki
   DisplayName: A-Sync
   Organization: Propinquiti
