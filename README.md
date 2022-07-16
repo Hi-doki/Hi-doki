@@ -5,9 +5,9 @@
   ```txt
   Username: Hi-Doki
   DisplayName: A-Sync
-  Organization: Propinquiti
+  Organization: iamgoodurbadahahhaha
   Repositories: 6
   Discord: kitkat#1000
-  Last Online: 10:40 PM GMT, July 7 2022
+  Last Online: 07:12 PM GMT, July 16 2022
   Link: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async
   ```       
