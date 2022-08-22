@@ -7,7 +7,7 @@
   DisplayName: A-Sync
   Organization: iamgoodurbadahahhaha
   Repositories: 6
-  Discord: kitkat#1000
+  Discord: キャット#2671
   Last Online: 10:34 PM GMT, August 20 2022
   Link: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async
   ```       
