@@ -10,4 +10,8 @@
   Discord: kyatto#2671
   Last Online: 11:15 PM GMT, September 16 2022
   Link: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async
-  ```       
+  ```      
+  
+  <p align=center>
+   <img src="https://github-readme-stats.vercel.app/api?username=hi-doki&show_icons=true&theme=dark" width=400 align=center />
+  </p>
