@@ -15,6 +15,6 @@
 [![ko - fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O4D6DP7)
   
   <p align=center>
-   <img src="https://kyattostats.vercel.app/api?username=hi-doki&show_icons=true&theme=kyatto" width=400 align=center />
+   <img src="https://githubstats-five.vercel.app/api?username=hi-doki&show_icons=true&theme=kyatto" width=400 align=center />
   </p>
   
