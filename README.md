@@ -3,7 +3,6 @@
 <h3>Contact</h3>
 
 
-
 + Discord: <a href="https://discord.com/users/828795326878056459">`kyatto#2671`</a>
 
 + Email: <a href="mailto:kyatto@kyaliko.com">`Email me :3`</a>
