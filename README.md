@@ -15,5 +15,6 @@
   
   <p align=center>
    <img src="https://githubstats-five.vercel.app/api?username=hi-doki&show_icons=true&theme=kyatto" width=400 align=center />
+   <img src="https://githubstats-five.vercel.app/api/wakatime?username=hi-doki&show_icons=true&theme=kyatto" width=400 align=center />
   </p>
   
