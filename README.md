@@ -3,11 +3,11 @@
 <h3>Contact</h3>
 
 
-+ Discord: <a href="https://discord.com/users/828795326878056459">`kyatto#2671`</a>
++ Discord: <a href="https://discord.com/users/828795326878056459">`kora <3#8792`</a>
 
-+ Email: <a href="mailto:kyatto@kyaliko.com">`Email me`</a> <a href="/README.md">`Don't wanna use the link? copy kyatto@kyaliko.com`</a>
++ Email: <a href="mailto:kora@kyaliko.com">`Email me`</a> <a href="/README.md">`Don't wanna use the link? copy kora@kyaliko.com`</a>
 
-+ Twitter: <a href="https://twitter.com/calico_cl">`calico_cl`</a>
++ Twitter: <a href="https://twitter.com/koranya_">`koranya_`</a>
 
 ### Support me pls 🙏
 
