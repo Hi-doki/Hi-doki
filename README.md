@@ -5,7 +5,7 @@
 
 + Discord: <a href="https://discord.com/users/828795326878056459">`@kyaliko`</a>
 
-+ Email: <a href="mailto:kora@kyaliko.com">`Email me`</a> <a href="">`Don't wanna use the link? copy kora@kyaliko.com`</a>
++ Email: <a href="mailto:kora@kyaliko.com">`Email me`</a> <a href="https://nekos.ca/">`Don't wanna use the link? copy kora@kyaliko.com`</a>
 
 + Twitter: <a href="https://twitter.com/koranya_">`koranya_`</a>
 
