@@ -18,7 +18,7 @@ I can code in: C#, Js, Py, Java, a lil lil lil bit of C++
 
 [![ko - fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O4D6DP7)
 
-<img src="https://githubstats-five.vercel.app/api?username=hi-doki&show_icons=true&theme=kyatto" height=113 align=right />
+<img src="https://githubstats-five.vercel.app/api?username=hi-doki&show_icons=true&theme=kyatto" height=113 align=center/>
   
   
   
