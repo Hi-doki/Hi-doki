@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Henlooo!!! 👋</h1>
+  <h1>Hellooo!!! 👋</h1>
   
   <h2 align="center">About</h3>
   
-  My name is Kora/Michii. I am a 16 year old college student that has been programming for many many many many many many many many years ^^
+  I am a 16 year old college student that has been programming for many many many many many many many many years ^^
   
   I code in many different languages, my main language is C# though, it is just so good <333 the other languages I code in is Javascript/Typescript, Java, C++, C, Python.
   
@@ -14,10 +14,6 @@
   My email: `kora@nekos.ca`
   
   My discord: `@mi._.chi`
-  
-  <h2>Profile Stats</h2>
-    
-  <img src="https://moe-counter.glitch.me/get/@:hi-doki" align="center" />
 </div>
 
 
