@@ -9,7 +9,7 @@
 
   I also need a job so pls give me one 🙏🙏🙏
   
-  ##### BTW I do not upload most of my projects publicly because I dont want people stealing my code due to how much work I put in and I dont want anyone to just copy/steal all of it.
+  ##### BTW I do not upload most of my projects publicly :p
   
   <h2 align="center">Contact</h3>
   
