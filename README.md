@@ -11,10 +11,6 @@
   
   ##### BTW I do not upload most of my projects publicly :p
   
-  <h2 align="center">Contact</h3>
-  
-  My email: `kora@nekos.ca`
-  
 </div>
 
 
