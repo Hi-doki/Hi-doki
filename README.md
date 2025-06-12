@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hellooo!!! 👋</h1>
+  <h1>Hiii ✨</h1>
   
-  <h2 align="center">About</h2>
+  <h2 align="center">About me</h2>
   
-  Im a 17 year old that has been programming for many many many many many many many many years. ( 6 years now )
+  I'm a 17 year old college student from the UK that has been programming for many many years. ( 6 years now )
   
-  I code in many different languages, my main language is C# though the other languages I code in is Javascript/Typescript, Java, C++, C, Python.
+  I code in many different languages, my main language i code in is C#, though I do also code in other languages such as: Javascript/Typescript, Java, C++, C, Python.
 
   I also need a job so pls give me one 🙏🙏🙏
   
