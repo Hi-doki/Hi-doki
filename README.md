@@ -9,7 +9,7 @@
 
   I also need a job so pls give me one 🙏🙏🙏
   
-  ##### BTW I do not upload most of my projects publicly :p (echo.nekos.ca for example)
+  ##### BTW I do not upload most of my projects publicly :p
   
 </div>
 
