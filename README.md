@@ -15,7 +15,7 @@
 
 <h2></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi-doki&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hi-doki&theme=high-contrast" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-doki&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -30,6 +30,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+
 
 
 
