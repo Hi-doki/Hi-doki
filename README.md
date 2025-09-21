@@ -9,7 +9,7 @@
 
   I also need a job so pls give me one 🙏🙏🙏
   
-  ##### BTW I do not upload most of my projects publicly :p
+  stop following me u bots ;-;
   
 </div>
 
@@ -30,6 +30,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+
 
 
 
