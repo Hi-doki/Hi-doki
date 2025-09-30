@@ -5,7 +5,7 @@
   
   I'm a 17 year old college student from the UK that has been programming for many many years. ( 6 years now )
   
-  The main language I use is C#, although I do also code in other languages such as: Javascript/Typescript, Java, C and Python.
+  The main language I use is C#, though I do also code in other languages such as: Javascript/Typescript, Java, C and Python.
   
   bots pls stop following me 🙏🙏
   
@@ -28,6 +28,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+
 
 
 
