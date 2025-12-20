@@ -13,9 +13,8 @@
 
 <h2></h2>
 
-<div align="left">
-  Discord: `mi._.chiii`
-</div>
+Discord: `mi._.chiii`
+
 
 
 
