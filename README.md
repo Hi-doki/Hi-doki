@@ -6,7 +6,8 @@
   I am a 17 year old full-stack developer from the United Kingdom. Soon to be studying at University of Brighton for Computer Science 🙏
   
   I don't really have any good projects to show off, all of the stuff I have made are just random small silly projects :p
-  
+
+  vibe coding can **** ** **** **** ****** ***** ** ** ******* ***
 </div>
 
 <h2></h2>
