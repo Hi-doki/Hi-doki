@@ -14,7 +14,7 @@
 
 Discord: `mi._.chiii`
 
-Email: `hi@nekos.ca`
+Email: `michii@nekos.ca`
 
 
 
