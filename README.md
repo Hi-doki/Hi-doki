@@ -8,6 +8,11 @@
   I don't really have any good projects to show off, all of the stuff I have made are just random small silly projects :p
 
   vibe coding can **** ** **** **** ****** ***** ** ** ******* ***
+
+  <h2>Projects</h2>
+
+  <p>I am currently only working on <a href="https://echo.nekos.ca/">Echo</a> as of 29/03/26 <br>
+  </p>
 </div>
 
 <h2></h2>
