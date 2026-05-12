@@ -8,6 +8,7 @@
 </div>
 
 ### Stuff I like using/coding in:
+- PowerShell
 - VSCode
 - Visual Studio (for C#)
 - NuxtJS (full stack web development)
