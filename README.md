@@ -4,6 +4,8 @@
   <h2 align="center">About me</h2>
 
   I am an 18 year old full-stack developer from the United Kingdom. Idk what else to put here.
+
+  portfolio: `https://michii.cat`
   
 </div>
 
